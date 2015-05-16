@@ -3,6 +3,8 @@ Awesome Clean Landing/Subscribe Page
 
 This is a simple and clean subscribe page written in PHP using Lúmen micro-framework, AngularJS and Semantic UI.
 
+![Preview](https://github.com/renatopeterman/awesome-subscribe-landing-page/blob/master/thumb.png "Preview")
+
 ## Tools
 
 * [Lúmen](http://lumen.laravel.com)
